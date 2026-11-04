@@ -30,6 +30,18 @@
 
 ---
 
+## 🎬 实机演示
+
+<div align="center">
+
+![FreeBike 实机演示：佩戴 PICO 4 Pro 踩踏骑行台，身后大屏同步播放 6K 校园全景](Docs/demo/demo.gif)
+
+**[▶ 看 19 秒完整原片（带声音）](Docs/demo/freebike-demo.mp4)**
+
+</div>
+
+---
+
 ## ✨ 特性一览
 
 | | 特性 | 说明 |

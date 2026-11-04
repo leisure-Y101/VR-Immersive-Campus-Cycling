@@ -1,4 +1,4 @@
-﻿# Unity generated
+# Unity generated
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -31,6 +31,10 @@ sysinfo.txt
 *.aab
 *.exe
 *.zip
+
+# README demo media (small, tracked on purpose so the page can show it)
+!/Docs/demo/*.mp4
+!/Docs/demo/*.gif
 
 # Python / tool caches
 __pycache__/
