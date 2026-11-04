@@ -60,3 +60,10 @@ desktop.ini
 
 # Office lock files (~$ prefix)
 ~$*
+
+# 文档工具的临时产物（渲染、试开、预览）
+Docs/.dsh-office-*/
+Docs/AI/_render_handoff/
+Docs/_test_open.docx
+Docs/*_word_preview.pdf
+resume_extract.txt
