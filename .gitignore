@@ -1,4 +1,4 @@
-# Unity generated
+﻿# Unity generated
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -53,3 +53,6 @@ crashlytics-build.properties
 Thumbs.db
 .DS_Store
 desktop.ini
+
+# Office lock files (~$ prefix)
+~$*
