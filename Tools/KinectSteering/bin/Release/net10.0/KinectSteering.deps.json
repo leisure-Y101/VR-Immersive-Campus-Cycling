@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "KinectSteering/1.0.0": {
+        "dependencies": {
+          "microsoft.azure.kinect.bodytracking": "1.0.0.0",
+          "Microsoft.Azure.Kinect.Sensor": "1.4.2.0"
+        },
+        "runtime": {
+          "KinectSteering.dll": {}
+        }
+      },
+      "microsoft.azure.kinect.bodytracking/1.0.0.0": {
+        "runtime": {
+          "microsoft.azure.kinect.bodytracking.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Microsoft.Azure.Kinect.Sensor/1.4.2.0": {
+        "runtime": {
+          "Microsoft.Azure.Kinect.Sensor.dll": {
+            "assemblyVersion": "1.4.2.0",
+            "fileVersion": "1.4.2.10"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KinectSteering/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "microsoft.azure.kinect.bodytracking/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Azure.Kinect.Sensor/1.4.2.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

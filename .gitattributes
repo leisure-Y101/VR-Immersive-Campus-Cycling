@@ -1,0 +1,9 @@
+* text=auto
+
+*.unity linguist-language=YAML
+*.prefab linguist-language=YAML
+*.asset linguist-language=YAML
+*.mat linguist-language=YAML
+*.meta linguist-language=YAML
+*.asmdef linguist-language=JSON
+*.json linguist-language=JSON

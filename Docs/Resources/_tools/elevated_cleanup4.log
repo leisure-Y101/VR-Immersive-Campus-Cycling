@@ -1,0 +1,20 @@
+﻿16:35:48  takeown: C:\Program Files (x86)\Lenovo\SLBrowser
+16:35:57    takeown lines=4152
+16:36:00    icacls lines=1
+16:36:01    LEFTOVER files=1916 size=1.60GB
+16:36:01  takeown: C:\Program Files (x86)\Lenovo\LeAppStore
+16:36:01    takeown lines=98
+16:36:01    icacls lines=1
+16:36:01    LEFTOVER files=9 size=0.00GB
+16:36:01  takeown: C:\Program Files (x86)\Lenovo\PCManager
+16:36:09    takeown lines=3740
+16:36:12    icacls lines=1
+16:36:13    LEFTOVER files=1684 size=1.26GB
+16:36:13  takeown: D:\2022sw
+16:36:13    takeown lines=12
+16:36:13    icacls lines=1
+16:36:13    LEFTOVER files=3 size=0.02GB
+16:36:14  EXISTS 2.86 GB  C:\Program Files (x86)\Lenovo
+16:36:14  EXISTS 0.00 GB  C:\Program Files\Lenovo
+16:36:14  EXISTS 0.02 GB  D:\2022sw
+16:36:14  C free: 115.7 GB  D free: 235.7 GB

@@ -1,0 +1,6 @@
+# FreeBike Cockpit placeholder material
+newmtl Bike_mat1
+Ka 0.050000 0.050000 0.050000
+Kd 0.120000 0.120000 0.120000
+Ks 0.350000 0.350000 0.350000
+Ns 60.000000

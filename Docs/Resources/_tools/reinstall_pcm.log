@@ -1,0 +1,16 @@
+﻿16:40:56  service LenovoPcManagerService -> auto
+16:40:56  service LenovoVantageService -> auto
+16:40:56  service SmartSense -> auto
+16:40:56  service LenovoServiceAS -> auto
+16:40:56  service LenovoProcessManagement -> auto
+16:40:56  service LnvVCamInstaller -> auto
+16:40:56  service SLBService -> auto
+16:40:56  service HRWSCCtrl -> auto
+16:40:57  service LenovoSLBrowserElevationService -> demand
+16:40:57  service LnvSvcFdn -> demand
+16:40:57  installer exists: True
+16:45:43  installer exit=0
+16:45:48  C:\Program Files (x86)\Lenovo\PCManager exists=True
+16:45:48  C:\Program Files\Lenovo exists=True
+16:45:48  LenovoPcManagerService status=Running startType=Automatic
+16:45:49  C free: 115.5 GB

@@ -1,0 +1,20 @@
+﻿16:34:55  service LenovoPcManagerService : Running -> stop + disable
+16:34:55  service LenovoProcessManagement : Running -> stop + disable
+16:34:56  service LnvVCamInstaller : Running -> stop + disable
+16:34:59  service LnvSvcFdn : Running -> stop + disable
+16:34:59  service SLBService : Stopped -> stop + disable
+16:34:59  service LenovoServiceAS : Stopped -> stop + disable
+16:34:59  service LenovoVantageService : Stopped -> stop + disable
+16:34:59  service LenovoSLBrowserElevationService : Stopped -> stop + disable
+16:34:59  service SmartSense : Running -> stop + disable
+16:34:59  service HRWSCCtrl : Running -> stop + disable
+16:35:03  kill LAVService 25672
+16:35:03  kill LenovoPcManagerService 6324
+16:35:03  kill LenovoTray 16636
+16:35:05  LEFTOVER C:\Program Files (x86)\Lenovo\LeAppStore (0.01 GB)
+16:35:06  LEFTOVER C:\Program Files (x86)\Lenovo\PCManager (1.26 GB)
+16:35:06  LEFTOVER C:\Program Files (x86)\Lenovo\SLBrowser (1.60 GB)
+16:35:08  LEFTOVER C:\Program Files (x86)\Lenovo (2.87 GB)
+16:35:08  LEFTOVER C:\Program Files\Lenovo (0.00 GB)
+16:35:08  LEFTOVER D:\2022sw (0.02 GB)
+16:35:08  C free: 115.7 GB  D free: 235.7 GB

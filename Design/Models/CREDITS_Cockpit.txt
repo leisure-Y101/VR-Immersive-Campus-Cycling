@@ -1,0 +1,11 @@
+FreeBike Cockpit Model Credits
+================================
+
+Bicycle
+- Author: Poly by Google
+- Source: https://poly.pizza/m/19VoUuA2pcN
+- License: Creative Commons Attribution 3.0 (CC BY 3.0)
+- Changes: cropped to the front section and material changed to dark gray for use as a VR cockpit placeholder.
+
+The model was downloaded from Poly Pizza and converted from GLB to OBJ for Unity.
+If this asset ships in a public demo, keep this attribution with the project.

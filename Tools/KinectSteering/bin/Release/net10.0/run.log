@@ -1,0 +1,6 @@
+15:16:27.151 FreeBike Kinect Steering
+15:16:27.159 C=校零  M=模式(手/侧倾)  I=反向  Q=退出
+15:16:27.206 UDP 广播端口 50505，目标数 3
+15:16:27.260 Kinect 不可用: result = K4A_RESULT_FAILED；2 秒后重试（检查 USB 线/接口）
+15:16:29.296 Kinect 不可用: result = K4A_RESULT_FAILED；2 秒后重试（检查 USB 线/接口）
+15:16:31.320 Kinect 不可用: result = K4A_RESULT_FAILED；2 秒后重试（检查 USB 线/接口）

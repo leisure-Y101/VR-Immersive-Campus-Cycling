@@ -1,0 +1,23 @@
+﻿== test create in C:\Program Files (x86)\Lenovo\SLBrowser ==
+create: FAIL 对路径“C:\Program Files (x86)\Lenovo\SLBrowser\zz_test.txt”的访问被拒绝。
+== test delete existing file ==
+del result: C:\Program Files (x86)\Lenovo\SLBrowser\SLBrowser.exe | 拒绝访问。 exists=True
+== processes with modules from Lenovo dirs ==
+  AppProvisioningPlugin (7052) -> C:\ProgramData\Lenovo\Udc\Hosts\x64\AppProvisioningPlugin.exe
+  CoreTelemetryPlugin (5636) -> C:\ProgramData\Lenovo\Udc\Hosts\x64\CoreTelemetryPlugin.exe
+  explorer (15856) -> C:\Program Files\Lenovo\AIAgent\ContextMenu\PkgExplorerPlugin.dll
+  explorer (22320) -> C:\Program Files\Lenovo\AIAgent\ContextMenu\PkgExplorerPlugin.dll
+  explorer (29104) -> C:\Program Files\Lenovo\AIAgent\ContextMenu\PkgExplorerPlugin.dll
+  explorer (32004) -> C:\Program Files\Lenovo\AIAgent\ContextMenu\PkgExplorerPlugin.dll
+  LAVService (25672) -> C:\Program Files (x86)\Lenovo\PCManager\5.1.200.8201\Security\service\LAVService.exe
+  LeMCPManagerService (6388) -> C:\ProgramData\Lenovo\LeMcpManager\LeMCPManagerService.exe
+  Lenovo.Modern.ImController (6540) -> C:\WINDOWS\Lenovo\ImController\Service\Lenovo.Modern.ImController.exe
+  LenovoPcManagerService (6324) -> C:\Program Files (x86)\Lenovo\PCManager\5.1.200.8201\LenovoPcManagerService.exe
+  LenovoTray (16636) -> C:\Program Files (x86)\Lenovo\PCManager\5.1.200.8201\LenovoTray.exe
+  MessagingPlugin (17044) -> C:\ProgramData\Lenovo\Udc\Hosts\x64\MessagingPlugin.exe
+  UDClientService (15044) -> C:\WINDOWS\System32\drivers\Lenovo\udc\Service\UDClientService.exe
+== solidworks leftovers ==
+  adxloader64.dll : D:\2022sw\SOLIDWORKS Manage Client\adxloader64.dll | 拒绝访问。
+  StrLib.dll : D:\2022sw\SOLIDWORKS PDM\StrLib.dll | 拒绝访问。
+  WfIcons.dll : D:\2022sw\SOLIDWORKS PDM\WfIcons.dll | 拒绝访问。
+D:\2022sw exists=True

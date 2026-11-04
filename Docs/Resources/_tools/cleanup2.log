@@ -1,0 +1,40 @@
+﻿16:33:35  === START ===
+16:33:36    stop service: LenovoVantageService
+16:33:36    stop service: LenovoPcManagerService
+16:33:36    stop service: LenovoServiceAS
+16:33:36    stop service: LenovoProcessManagement
+16:33:36    stop service: SmartSense
+16:33:36    stop service: LnvVCamInstaller
+16:33:36    stop service: HRWSCCtrl
+16:33:39    delete: C:\Program Files\Lenovo
+16:33:48    [leftover] C:\Program Files\Lenovo (6.47 GB)
+16:33:48    delete: C:\Program Files (x86)\Lenovo
+16:33:54    [leftover] C:\Program Files (x86)\Lenovo (3.96 GB)
+16:33:54    delete: D:\2022sw
+16:33:54    [leftover] D:\2022sw (0.02 GB)
+16:33:54    remove registry entry: Windows 驱动程序包 - KEIL - Tools By ARM USBDevice  (12/12/2017 1.0.1.0)
+16:33:54    remove registry entry: Windows 驱动程序包 - KEIL - Tools By ARM (WinUSB) USB  (08/29/2013 1.0.0.3)
+16:33:54    remove registry entry: CCS Theia 1.4.1.00001
+16:33:54    remove registry entry: SOLIDWORKS 2022 SP05
+16:33:54    remove registry entry: SOLIDWORKS Composer 2022 SP05
+16:33:54    remove registry entry: SOLIDWORKS CAM 2022 SP05
+16:33:54    remove registry entry: SOLIDWORKS Visualize 2022 SP05
+16:33:54    remove registry entry: SOLIDWORKS 2022 Chinese Resources
+16:33:54    remove registry entry: SOLIDWORKS Plastics 2022 SP05
+16:33:54    remove registry entry: SOLIDWORKS 2022 Chinese Simplified Resources
+16:33:54    remove registry entry: Lenovo Speech
+16:33:54    remove registry entry: SOLIDWORKS PDM Client 2022 SP05
+16:33:54    remove registry entry: SOLIDWORKS File Utilities 2022 SP05
+16:33:54    remove registry entry: SOLIDWORKS eDrawings 2022 SP05
+16:33:54    remove registry entry: SOLIDWORKS Manage Client 2022 SP05
+16:33:54    remove registry entry: Keil μVision4
+16:33:54    remove registry entry: SOLIDWORKS 2022 SP05
+16:33:54    remove registry entry: Lenovo Vantage Service
+16:33:54    remove registry entry: LenovoBaiying version 2.0.0
+16:33:55  freed this pass: 0.00 GB
+16:33:55  C free: 108.2 GB   D free: 235.7 GB
+16:33:55    exists=True  C:\Program Files\Lenovo
+16:33:55    exists=True  C:\Program Files (x86)\Lenovo
+16:33:55    exists=True  D:\2022sw
+16:33:55    exists=False  D:\keil5
+16:33:55    exists=False  D:\CCSTheia1.4.1.00001_win64

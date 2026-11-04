@@ -1,0 +1,6 @@
+FreeBike Kinect Steering
+C=校零  M=模式(手/侧倾)  I=反向  Q=退出
+
+[2026-10-19 14:24:12.833] [critical] [t=36612] D:\a\1\s\extern\Azure-Kinect-Sensor-SDK\src\usbcommand\usbcommand.c (366): find_libusb_device(). libusb device(s) are all unavalable. Is the device being used by another application?
+[2026-10-19 14:24:12.835] [error] [t=36612] D:\a\1\s\extern\Azure-Kinect-Sensor-SDK\src\depth_mcu\depth_mcu.c (68): usb_cmd_create(USB_DEVICE_DEPTH_PROCESSOR, device_index, NULL, &depthmcu->usb_cmd) returned failure in depthmcu_create()
+[2026-10-19 14:24:12.835] [error] [t=36612] D:\a\1\s\extern\Azure-Kinect-Sensor-SDK\src\sdk\k4a.c (133): depthmcu_create(index, &device->depthmcu) returned failure in k4a_device_open()

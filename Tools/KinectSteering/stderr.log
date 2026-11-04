@@ -1,0 +1,4 @@
+Unhandled exception. Microsoft.Azure.Kinect.Sensor.AzureKinectOpenDeviceException: result = K4A_RESULT_FAILED
+   at Microsoft.Azure.Kinect.Sensor.AzureKinectOpenDeviceException.ThrowIfNotSuccess[T](Func`1 function) in D:\a\1\s\extern\Azure-Kinect-Sensor-SDK\src\csharp\SDK\Exceptions\AzureKinectOpenDeviceException.cs:line 96
+   at Microsoft.Azure.Kinect.Sensor.Device.Open(Int32 index) in D:\a\1\s\extern\Azure-Kinect-Sensor-SDK\src\csharp\SDK\Device.cs:line 188
+   at KinectSteering.Program.Main() in C:\Users\admin\freebike\Tools\KinectSteering\Program.cs:line 57

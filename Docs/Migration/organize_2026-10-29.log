@@ -1,0 +1,61 @@
+﻿[2026-10-29 21:40:31] START organize
+[2026-10-29 21:40:31] MISSING D:\Users\admin\Desktop\FreeBike_宸ヤ綔鎶ュ憡_2026-10-29.docx
+[2026-10-29 21:40:31] MOVED D:\freebikeapk\Resources -> D:\freebike\Docs\Resources
+[2026-10-29 21:40:31] MOVED D:\freebikeapk\CyclingReport -> D:\freebike\Docs\RuntimeReports\CyclingReport
+[2026-10-29 21:40:31] MOVED D:\freebikeapk\_docx_media -> D:\freebike\Docs\Reports\media
+[2026-10-29 21:40:31] MOVED D:\freebikeapk\pico_apk_build.log -> D:\freebike\Docs\Logs\pico_apk_build.log
+[2026-10-29 21:40:31] MOVED D:\freebikeapk\pico_apk_build2.log -> D:\freebike\Docs\Logs\pico_apk_build2.log
+[2026-10-29 21:40:31] MOVED D:\freebikeapk\pico_apk_build3.log -> D:\freebike\Docs\Logs\pico_apk_build3.log
+[2026-10-29 21:40:31] MOVED D:\freebikeapk\windows_build.log -> D:\freebike\Docs\Logs\windows_build.log
+[2026-10-29 21:40:31] MOVED D:\freebikeapk\freebike_project_move.log -> D:\freebike\Docs\Logs\freebike_project_move.log
+[2026-10-29 21:40:31] MOVED D:\freebikeapk\unity_app_import.log -> D:\freebike\Docs\Logs\unity_app_import.log
+[2026-10-29 21:40:31] MOVED D:\freebikeapk\unity_final_check.log -> D:\freebike\Docs\Logs\unity_final_check.log
+[2026-10-29 21:40:32] MOVED D:\freebikeapk\pico_migration_import.log -> D:\freebike\Docs\Logs\pico_migration_import.log
+[2026-10-29 21:40:32] MOVED D:\freebikeapk\unity_validate2.log -> D:\freebike\Docs\Logs\unity_validate2.log
+[2026-10-29 21:40:32] MOVED D:\freebike\CampusRideUIBuilder.log -> D:\freebike\Docs\Logs\CampusRideUIBuilder.log
+[2026-10-29 21:40:32] MOVED D:\freebike\Logs -> D:\freebike\Docs\Logs\UnityLogs
+[2026-10-29 21:40:32] MOVED D:\freebikeapk\make_freebike_report.py -> D:\freebike\Docs\Reports\_scripts\make_freebike_report.py
+[2026-10-29 21:40:32] MOVED D:\freebikeapk\edit_report_addendum.py -> D:\freebike\Docs\Reports\_scripts\edit_report_addendum.py
+[2026-10-29 21:40:32] MOVED D:\freebikeapk\fix_report_tables.py -> D:\freebike\Docs\Reports\_scripts\fix_report_tables.py
+[2026-10-29 21:40:32] MOVED D:\freebikeapk\resize_report_tables.py -> D:\freebike\Docs\Reports\_scripts\resize_report_tables.py
+[2026-10-29 21:40:32] MOVED D:\freebikeapk\report_dump.txt -> D:\freebike\Docs\Reports\_scripts\report_dump.txt
+[2026-10-29 21:40:32] MOVED D:\freebikeapk\UI -> D:\freebike\Design\UI
+[2026-10-29 21:40:32] MOVED D:\freebikeapk\refs -> D:\freebike\Design\References
+[2026-10-29 21:40:32] MOVED D:\freebikeapk\models -> D:\freebike\Design\Models
+[2026-10-29 21:40:32] REMOVED D:\freebike\Design\UI\__pycache__
+[2026-10-29 21:40:32] MOVED D:\freebikeapk\a1_bridge.py -> D:\freebike\Tools\A1\a1_bridge.py
+[2026-10-29 21:40:32] MOVED D:\freebikeapk\inspect_a1.py -> D:\freebike\Tools\A1\inspect_a1.py
+[2026-10-29 21:40:32] MOVED D:\freebikeapk\scan_ble.py -> D:\freebike\Tools\A1\scan_ble.py
+[2026-10-29 21:40:32] MOVED D:\freebikeapk\pydeps -> D:\freebike\Tools\deps\pydeps
+[2026-10-29 21:40:32] MOVED D:\freebikeapk\.pydeps-ble -> D:\freebike\Tools\deps\.pydeps-ble
+[2026-10-29 21:40:32] MOVED D:\freebikeapk\_tools -> D:\freebike\Tools\ffmpeg
+[2026-10-29 21:40:32] MOVED D:\freebikeapk\compilecheck -> D:\freebike\Tools\compilecheck
+[2026-10-29 21:40:32] REMOVED D:\freebikeapk\a1_bridge.py.bak
+[2026-10-29 21:40:32] MOVED D:\freebikeapk\360vidio\pro2\6k60fps.mp4 -> D:\freebike\Media\Video\6k60fps.mp4
+[2026-10-29 21:40:32] MOVED D:\freebikeapk\360vidio\pro2\6k60fps_hevc.mp4 -> D:\freebike\Media\Video\6k60fps_hevc.mp4
+[2026-10-29 21:40:32] MOVED D:\freebikeapk\360vidio\pro2\PIC_20261026_071025_26_10_26_11_33_08_output_1.jpg -> D:\freebike\Media\Stills\homepage_source.jpg
+[2026-10-29 21:40:32] MOVED D:\freebikeapk\360vidio\pro2\_mono_contact.jpg -> D:\freebike\Media\Stills\mono_contact.jpg
+[2026-10-29 21:40:32] MOVED D:\freebikeapk\demo -> D:\freebike\Releases\Windows\demo_2026-10-27
+[2026-10-29 21:40:32] MOVED D:\freebikeapk\freebike2.0 -> D:\freebike\Releases\Windows\freebike2.0_2026-10-26
+[2026-10-29 21:40:32] MOVED D:\freebikeapk\Builds\PicoVideoBenchmark.apk -> D:\freebike\Releases\Benchmark\PicoVideoBenchmark.apk
+[2026-10-29 21:40:32] MOVED D:\freebikeapk\Builds\install_benchmark.cmd -> D:\freebike\Releases\Benchmark\install_benchmark.cmd
+[2026-10-29 21:40:32] REMOVED D:\freebikeapk\CampusRideDemo
+[2026-10-29 21:40:32] REMOVED D:\freebikeapk\Builds
+[2026-10-29 21:40:32] REMOVED D:\freebikeapk\_backup_20261027
+[2026-10-29 21:40:32] REMOVED D:\freebikeapk\360vidio
+[2026-10-29 21:40:32] REMOVED D:\freebike\Assets\Video
+[2026-10-29 21:40:32] REMOVED D:\freebike\Assets\_Recovery
+[2026-10-29 21:40:32] REMOVED D:\freebike\build
+[2026-10-29 21:40:32] REMOVED D:\freebike\_codex_backup_20261026-032408
+[2026-10-29 21:40:32] REMOVED D:\freebike\obj
+[2026-10-29 21:40:32] REMOVED D:\freebike\.vs
+[2026-10-29 21:40:32] COPIED D:\freebikeapk\README_github.md -> D:\freebike\README.md
+[2026-10-29 21:40:32] COPIED D:\freebikeapk\.gitignore -> D:\freebike\.gitignore
+[2026-10-29 21:40:32] COPIED D:\freebikeapk\.gitattributes -> D:\freebike\.gitattributes
+[2026-10-29 21:40:32] COPIED D:\freebikeapk\Media_README.md -> D:\freebike\Media\README.md
+[2026-10-29 21:40:32] COPIED D:\freebikeapk\Releases_README.md -> D:\freebike\Releases\README.md
+[2026-10-29 21:40:32] UPDATED CampusRideApp.cs paths
+[2026-10-29 21:40:32] UPDATED panoTest.unity paths
+[2026-10-29 21:40:32] UPDATED BuildWindowsCampusRide.cs output path
+[2026-10-29 21:40:32] UPDATED PicoBenchmarkBuilder.cs output path
+[2026-10-29 21:40:33] DONE organize

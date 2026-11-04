@@ -1,0 +1,42 @@
+﻿16:34:17  elevated=True
+16:34:19  kill VirtualCamera_Installer 6620
+16:34:19  kill VirtualCameraService 10276
+16:34:19  kill XLSmartService 15192
+16:34:21  kill cfpixeleditor 5840
+16:34:21  kill cfpixeleditor 31924
+16:34:21  kill crashpad_handler 2616
+16:34:21  kill crashpad_handler 23904
+16:34:21  kill crashpad_handler 34036
+16:34:21  kill EMDriverAssist 15640
+16:34:21  kill fastpdf 1820
+16:34:21  kill kvipgui 16700
+16:34:21  kill LAVService 25672
+16:34:21  kill LeAppOM 18936
+16:34:21  kill LeAppStoreTray 22472
+16:34:21  kill LenovoAppStore 2164
+16:34:21  kill LenovoAppStore 6704
+16:34:21  kill LenovoAppStore 13468
+16:34:21  kill LenovoAppStore 24604
+16:34:21  kill LenovoAppStore 30404
+16:34:21  kill LenovoPcManagerService 6324
+16:34:21  kill LenovoServiceAS 6316
+16:34:21  kill LenovoToolMonitoring 18732
+16:34:21  kill LenovoTray 16636
+16:34:21  kill LenovoVantage-(GenericMessagingAddin) 16844
+16:34:21  kill LenovoVantage-(VantageCoreAddin) 22580
+16:34:21  kill LenovoVantageService 6352
+16:34:21  kill ResScheduler 18876
+16:34:21  kill SLBSafe 16208
+16:34:21  kill SLBService 6448
+16:34:21  kill usysdiag 33852
+16:34:21  kill webpiclaunch 20316
+16:34:21  kill webpiclaunch 34940
+16:34:21  kill WSPluginHost 13748
+16:34:25  kill SWVisualize.Queue.Server 14972
+16:34:29  delete C:\Program Files\Lenovo (6.47 GB)
+16:34:34    LEFTOVER 0.01 GB
+16:34:34  delete C:\Program Files (x86)\Lenovo (3.96 GB)
+16:34:39    LEFTOVER 2.87 GB
+16:34:39  delete D:\2022sw (0.02 GB)
+16:34:39    LEFTOVER 0.02 GB
+16:34:40  C free: 115.7 GB   D free: 235.7 GB

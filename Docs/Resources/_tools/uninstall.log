@@ -1,0 +1,69 @@
+﻿16:31:11  === START: C=104.3GB D=204.1GB ===
+16:31:11  [1/4] Lenovo bundle
+16:31:13    component uninstaller: C:\Program Files (x86)\Lenovo\baiying\unins000.exe
+16:31:13    run: C:\Program Files (x86)\Lenovo\baiying\unins000.exe 
+16:31:13    [fail] 无法对参数“ArgumentList”执行参数验证。该参数为 Null、为空或参数集合的某个元素包含 Null 值。请提供一个不包含任何 Null 值的集合，然后重试此命令。
+16:31:13    component uninstaller: C:\Program Files (x86)\Lenovo\LenovoInternetSoftwareFramework\uninstall.exe
+16:31:13    run: C:\Program Files (x86)\Lenovo\LenovoInternetSoftwareFramework\uninstall.exe 
+16:31:13    [fail] 无法对参数“ArgumentList”执行参数验证。该参数为 Null、为空或参数集合的某个元素包含 Null 值。请提供一个不包含任何 Null 值的集合，然后重试此命令。
+16:31:13    component uninstaller: C:\Program Files (x86)\Lenovo\VantageService\5.1.2607.5\Uninstall.exe
+16:31:13    run: C:\Program Files (x86)\Lenovo\VantageService\5.1.2607.5\Uninstall.exe 
+16:31:13    [fail] 无法对参数“ArgumentList”执行参数验证。该参数为 Null、为空或参数集合的某个元素包含 Null 值。请提供一个不包含任何 Null 值的集合，然后重试此命令。
+16:31:13    component uninstaller: C:\Program Files\Lenovo\AIAgent\uninstall.exe
+16:31:13    run: C:\Program Files\Lenovo\AIAgent\uninstall.exe 
+16:31:13    [fail] 无法对参数“ArgumentList”执行参数验证。该参数为 Null、为空或参数集合的某个元素包含 Null 值。请提供一个不包含任何 Null 值的集合，然后重试此命令。
+16:31:13    component uninstaller: C:\Program Files\Lenovo\Lenovo Speech\2.1.0.90\unins000.exe
+16:31:13    run: C:\Program Files\Lenovo\Lenovo Speech\2.1.0.90\unins000.exe 
+16:31:13    [fail] 无法对参数“ArgumentList”执行参数验证。该参数为 Null、为空或参数集合的某个元素包含 Null 值。请提供一个不包含任何 Null 值的集合，然后重试此命令。
+16:31:13    component uninstaller: C:\Program Files\Lenovo\Smart Meeting\unins000.exe
+16:31:13    run: C:\Program Files\Lenovo\Smart Meeting\unins000.exe 
+16:31:13    [fail] 无法对参数“ArgumentList”执行参数验证。该参数为 Null、为空或参数集合的某个元素包含 Null 值。请提供一个不包含任何 Null 值的集合，然后重试此命令。
+16:31:15    delete dir: C:\Program Files\Lenovo (10.36 GB)
+16:31:28    [leftover] C:\Program Files\Lenovo still exists
+16:31:29    delete dir: C:\Program Files (x86)\Lenovo (3.96 GB)
+16:31:33    [leftover] C:\Program Files (x86)\Lenovo still exists
+16:31:33  [2/4] CCS Theia
+16:31:33    run: D:\CCSTheia1.4.1.00001_win64\ccs\uninstall_ccs.exe 
+16:31:33    [fail] 无法对参数“ArgumentList”执行参数验证。该参数为 Null、为空或参数集合的某个元素包含 Null 值。请提供一个不包含任何 Null 值的集合，然后重试此命令。
+16:31:39    delete dir: D:\CCSTheia1.4.1.00001_win64 (7.03 GB)
+16:32:20    [done] removed
+16:32:20  [3/4] SOLIDWORKS 2022 (per-component MSI silent uninstall)
+16:32:20    MSI {26EA0056-4BAD-4F9E-BDCE-A72E25C7D06D}
+16:32:20    [skip] not found: msiexec.exe
+16:32:20    MSI {58BEDD50-0DAB-4BBD-AF66-62A93C77F8AF}
+16:32:20    [skip] not found: msiexec.exe
+16:32:20    MSI {A7D46D29-7CBB-4CD2-8DFD-5986F4446AB4}
+16:32:20    [skip] not found: msiexec.exe
+16:32:20    MSI {273E0863-61E6-4E82-A2FF-D28DB44D6471}
+16:32:20    [skip] not found: msiexec.exe
+16:32:20    MSI {46053718-2931-47EA-B678-6DF08370F2D4}
+16:32:20    [skip] not found: msiexec.exe
+16:32:20    MSI {54DF002F-CDCE-40B2-8E2A-E294333EE6EB}
+16:32:20    [skip] not found: msiexec.exe
+16:32:20    MSI {770F37F3-8897-4C37-B7F2-B1AA5FC825C7}
+16:32:20    [skip] not found: msiexec.exe
+16:32:20    MSI {E5A7DAD6-65DE-4DDA-8240-D49168365FF2}
+16:32:20    [skip] not found: msiexec.exe
+16:32:20    MSI {EB00B3B9-B938-4123-9BDC-F7CD57128E16}
+16:32:20    [skip] not found: msiexec.exe
+16:32:20    MSI {E1C7FBC9-5D5C-4C5F-BE99-185E8576BC5B}
+16:32:20    [skip] not found: msiexec.exe
+16:32:20    MSI {E3B4130E-6066-4613-918C-6EB5E7B68D8C}
+16:32:20    [skip] not found: msiexec.exe
+16:32:23    delete dir: D:\2022sw (19.36 GB)
+16:32:51    [leftover] D:\2022sw still exists
+16:32:51    delete dir: C:\WINDOWS\SolidWorks (0.09 GB)
+16:32:52    [leftover] C:\WINDOWS\SolidWorks still exists
+16:32:52  [4/4] Keil5
+16:32:52    run: D:\keil5\NEWkeil\Uninstall.exe 
+16:32:52    [fail] 无法对参数“ArgumentList”执行参数验证。该参数为 Null、为空或参数集合的某个元素包含 Null 值。请提供一个不包含任何 Null 值的集合，然后重试此命令。
+16:32:53    delete dir: D:\keil5 (4.9 GB)
+16:33:05    [done] removed
+16:33:05  === END ===
+16:33:05  freed: 35.57 GB
+16:33:05  C free: 108.2 GB   D free: 235.7 GB
+16:33:05    exists=True  C:\Program Files\Lenovo
+16:33:05    exists=True  C:\Program Files (x86)\Lenovo
+16:33:05    exists=False  D:\CCSTheia1.4.1.00001_win64
+16:33:05    exists=True  D:\2022sw
+16:33:05    exists=False  D:\keil5
